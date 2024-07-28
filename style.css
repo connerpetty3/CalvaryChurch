@@ -1,0 +1,244 @@
+body {
+    background-color:rgb(246, 247, 248)
+}
+
+.navbar-expand-lg {
+    background-color:white !important;
+}
+
+div.service_div {
+    width: 50%;
+    display: inline-block;
+}
+
+.home {
+    margin-top:50px;
+    background-color:lightgray;
+}
+
+.home-div {
+    text-align:center; 
+    background-color: lightblue;
+    padding:50px; 
+    margin-top:100px;
+    min-width:280px
+}
+
+.logo {
+    width:80px;
+    height:67px
+}
+
+.meet-our-team-title {
+    text-align: center;
+    padding:50px;
+}
+
+.meet-our-team-article {
+    margin-left: 2.5%;
+    margin-right:2.5%;
+    background-color: lightblue;
+    padding: 25px;
+    border-radius: 15px;
+}
+
+.first-article-div {
+    padding:5px;
+    border-radius:5px;
+    background-color: rgb(178, 174, 174);
+    display:inline-block;
+    width:100%;
+    
+}
+
+.first-article-image {
+    width: 50%;
+    min-width: 100px;
+    float: left;
+    margin-right:10px
+}
+
+.first-article-title {
+    text-align: center;
+    font-size: 21pt;
+}
+
+.first-article-title2 {
+    text-align:center;
+    font-size: 20pt;
+}
+
+.article-text1 {
+    text-align: left;
+    font-size: 16pt;
+    padding: 25px;
+}
+
+.meet-our-team-article2 {
+    margin-left: 2.5%;
+    margin-right:2.5%;
+    background-color: lightblue;
+    padding: 25px;
+    border-radius: 15px;
+    margin-top:15px;
+}
+
+.services-header {
+    text-align:center; 
+    padding:50px;
+}
+
+.services-div1 {
+    background-color:lightblue; 
+    padding:25px 25px 0px 25px; 
+    width:device-width;
+    margin-left:2.5%; 
+    border-radius: 40px;
+    margin-right:2.5%; 
+    min-width: 270px
+}
+
+.services-div2 {
+    background-color:lightblue; 
+    padding:25px 25px 0px 25px; 
+    width:device-width;
+    margin-left:2.5%; 
+    border-radius: 40px;
+    margin-right:2.5%; 
+    min-width: 270px;
+    margin-top:25px
+}
+
+.service-image-div {
+    width:100%; 
+    display:flex; 
+    padding-left:75px; 
+    padding-right:75px; 
+    min-width:220px;
+    justify-content:center;
+    align-items:center;
+    background-color: rgb(178, 174, 174);
+    border-radius:10px
+}
+
+.service-image {
+    width:100%; 
+    height: 100%; 
+    min-width:195px;
+}
+
+.service-text {
+    width:auto; 
+    display:inline-block;
+    padding:25px; 
+    min-width:150px; 
+    min-height:145px; 
+    vertical-align:top;
+}
+
+.service-title {
+    text-align: center;
+}
+
+.service-paragraph {
+    text-align:center;
+    font-size:15pt;
+}
+
+.belief-div-blue {
+    background-color: lightblue;
+    padding: 50px;
+    text-align: center;
+    margin-bottom:10px;
+}
+
+.belief-div-gray {
+    background-color: rgb(178, 174, 174);
+    padding: 50px;
+    text-align: center;
+    margin-bottom:10px;
+}
+
+.belief-text {
+    font-size:15pt;
+    text-align: left;
+}
+
+.prayer-div {
+    margin-top:100px;
+    background-color:lightblue;
+    padding:45px;
+    display:inline-block
+}
+
+.prayer-pic {
+    width:50%;
+    min-width: 190px;
+    float:left;
+    margin-right:5px
+}
+
+.prayerh {
+    text-align:center;
+}
+
+.prayer-text {
+    font-size:19pt;
+    text-align: left;
+}
+
+.low-bottom {
+    margin-top: 100px;
+    background-color: rgb(52, 51, 51);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width:100%;
+    min-width:280px
+}
+
+.low-div {
+    width:33%;
+    text-align: center;
+    display:inline-block;
+    color:white;
+    min-width:75px
+}
+
+.low-text {
+    font-size:6pt
+}
+
+.facebook-tab {
+    color:white;
+    text-decoration: none;
+}
+
+.contact-text {
+    font-size: 20pt;
+}
+
+.contact-div {
+    margin-bottom:300px
+}
+
+.contact-background {
+    width:60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    background-color: lightblue;
+    text-align: center;
+    border-radius: 10px;
+    padding: 25px
+}
+
+.contact-bottom-div {
+    margin-top: 100px;
+    background-color: rgb(52, 51, 51);
+    padding-top: 50px;
+    padding-bottom: 50px;
+    width:100%;
+    min-width:280px;
+    position:fixed;
+    bottom:0
+    
+}
