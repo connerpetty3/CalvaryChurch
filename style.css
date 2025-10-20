@@ -172,7 +172,7 @@ div.service_div {
 }
 
 .prayer-pic {
-    width:50%;
+    width:100%;
     min-width: 190px;
     float:left;
     margin-right:5px
@@ -180,6 +180,7 @@ div.service_div {
 
 .prayerh {
     text-align:center;
+    padding-top: 20px;
 }
 
 .prayer-text {
